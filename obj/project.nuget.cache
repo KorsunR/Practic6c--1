@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SoiV7XVmdsqXJ92HoIQigDFKw7ChjPfsB7n3FmQpv2+9tcykicpMAG3Op1hQswh4hUYRJ8ZQ8ffm676cHrUZAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Korsun\\OneDrive\\Рабочий стол\\messenger-WPF-main\\Messenger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Korsun\\.nuget\\packages\\materialdesigncolors\\2.1.2\\materialdesigncolors.2.1.2.nupkg.sha512",
+    "C:\\Users\\Korsun\\.nuget\\packages\\materialdesignthemes\\4.8.0\\materialdesignthemes.4.8.0.nupkg.sha512",
+    "C:\\Users\\Korsun\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
